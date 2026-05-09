@@ -82,6 +82,8 @@ Findings :
 - Multiple user accounts were successfully enumerated through SMB.
 - Service accounts and administrator-related accounts were exposed.
 
-Conclusion :
+---
+
+### Conclusion :
 
 SMB enumeration successfully identified several user accounts and service-related accounts on the target machine.
